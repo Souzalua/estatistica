@@ -1,2 +1,0 @@
-# estatistica
-Dadosbrutosgrupoe
